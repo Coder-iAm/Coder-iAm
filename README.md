@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="https://arienspace.com" target="_blank">Sarif Mondal</a>! 👋</h1>
+<h1 align="center">Hello there, I'm <a href="https://arienspace.com" target="_blank">Sarif Mondal</a>! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/sarifmondal"><img src="https://img.shields.io/github/followers/sarifmondal?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/sarif-mondal"><img src="https://img.shields.io/badge/-Sarif%20Mondal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarif-mondal/"></a>
-  <a href="mailto:spacearien@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+   <a href="https://www.instagram.com/little_star.i/"><img src="https://img.shields.io/badge/-sarif_mondal-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarif_mondal"></a>
+  <a href="mailto:sarifmondal56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.youtube.com/@hof_lyrics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
@@ -49,6 +49,6 @@ I'm a **Web Developer** and **Java Developer** from **Kolkata, India** with a pa
 ---
 
 ### 📫 Let's Connect
-- Email: [spacearien@gmail.com](mailto:spacearien@gmail.com)
-- LinkedIn: [Sarif Mondal](https://www.linkedin.com/in/sarif-mondal)
-- YouTube: [Heaven of Fame](https://www.youtube.com/@hof_lyrics)
+- Email: [sarifmondal56@gmail.com](mailto:sarifmondal56@gmail.com)
+- Instagram: [little_star.i](https://www.instagram.com/little_star.i/)
+- YouTube: [Working](https://www.youtube.com/@hof_lyrics)
