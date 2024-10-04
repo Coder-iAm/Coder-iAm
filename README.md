@@ -37,8 +37,8 @@ I'm a **Web Developer** and **Java Developer** from **Kolkata, India** with a pa
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?style=flat-square&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-7ED321?style=flat-square&logo=pycharm&logoColor=F7DF1E)
 ![Dev C++](https://img.shields.io/badge/-Dev%20C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
 ---
 
