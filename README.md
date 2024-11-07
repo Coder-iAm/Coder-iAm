@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Web Developer** and **Java Developer** from **Kolkata, India** with a passion for designing and developing scalable web applications and clean, maintainable code.
+I'm a **Web Developer** from **Kolkata, India** with a passion for designing and developing scalable web applications and clean, maintainable code.
 
-- 💻 Currently working as a **Java Developer**
+- 💻 Currently working as a **Web Developer**
 - 🌐 Created some live projects:
   - 🚀 [Arien Space](https://arienspace.com) – A website about science and space.
   - 💼 [Barclays Bank](https://barclaysbank.onrender.com) – A banking system built with **Node.js** (Under construction).
