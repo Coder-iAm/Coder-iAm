@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sarifmondal"><img src="https://img.shields.io/github/followers/sarifmondal?label=Follow&style=social" alt="GitHub"></a>
-   <a href="https://www.instagram.com/little_star.i/"><img src="https://img.shields.io/badge/-sarif_mondal-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarif_mondal"></a>
+   <a href="https://www.instagram.com/iiamsarif/"><img src="https://img.shields.io/badge/-sarif_mondal-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sarif_mondal"></a>
   <a href="mailto:sarifmondal56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.youtube.com/@hof_lyrics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
@@ -54,5 +54,5 @@ I'm a **Web Developer** from **Kolkata, India** with a passion for designing and
 
 ### 📫 Let's Connect
 - Email: [sarifmondal56@gmail.com](mailto:sarifmondal56@gmail.com)
-- Instagram: [little_star.i](https://www.instagram.com/little_star.i/)
+- Instagram: [iiamsarif](https://www.instagram.com/iiamsarif/)
 - YouTube: [Working](https://www.youtube.com/@hof_lyrics)
